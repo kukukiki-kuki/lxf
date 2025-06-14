@@ -39,7 +39,7 @@ public class Main {
             Thread.sleep((long) (Math.random() * 100));
         } catch (InterruptedException e) {
         }
-        return "601857";
+        return "123456";
     }
 
     static Double fetchPrice(String code, String url) {
